@@ -7,7 +7,7 @@ const Jumbotron = () => {
           <h1 className="text-2xl text-shadow-white">a bit about me</h1>
         </div>
         <p className="container mx-auto flex justify-center text-3xl md:text-8xl text-orange-700 ">
-          WHO AM I?
+          WHO AM I? hehe
         </p>
 
         <div className="flex justify-center order-1 md:order-2">
