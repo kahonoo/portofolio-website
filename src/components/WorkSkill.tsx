@@ -14,17 +14,17 @@ const AboutMe = () => {
           <div className="flex justify-center gap-6 mt-5 ">
             <p>
               <Avatar className="size-20">
-                <AvatarImage src="/css.webp" />
+                <AvatarImage src="/css.webp" alt="thumbnail" />
               </Avatar>
             </p>
             <p>
               <Avatar className="size-20">
-                <AvatarImage src="/html.webp" />
+                <AvatarImage src="/html.webp" alt="thumbnail"/>
               </Avatar>
             </p>
             <p>
               <Avatar className="size-20">
-                <AvatarImage src="/js.webp" />
+                <AvatarImage src="/js.webp" alt="thumbnail"/>
               </Avatar>
             </p>
           </div>
@@ -36,7 +36,7 @@ const AboutMe = () => {
           <div className="flex justify-center gap-6 mt-5 ">
             <p>
               <Avatar className="size-20">
-                <AvatarImage src="/nodejs.webp" />
+                <AvatarImage src="/nodejs.webp" alt="thumbnail"/>
               </Avatar>
             </p>
           </div>
@@ -48,7 +48,7 @@ const AboutMe = () => {
           <div className="flex justify-center gap-6 mt-5 ">
             <p>
               <Avatar className="size-20">
-                <AvatarImage src="/git.webp" />
+                <AvatarImage src="/git.webp" alt="thumbnail"/>
               </Avatar>
             </p>
           </div>
