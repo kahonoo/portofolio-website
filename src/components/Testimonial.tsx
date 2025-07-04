@@ -31,7 +31,7 @@ const Testimonial = () => {
                 AHS!”
               </h3>
               <Avatar className="container mx-auto w-[100px] h-[100px] mt-4 ">
-                <AvatarImage src="/profile.webp" />
+                <AvatarImage src="/profile.webp" alt="thumbnail" />
               </Avatar>
               <p className="text-center mt-3">Pak Andi, Pegawai Negeri</p>
             </div>
@@ -44,7 +44,7 @@ const Testimonial = () => {
                 lewat WA, langsung diantar. Timnya ramah dan tepat waktu.”
               </h4>
               <Avatar className="container mx-auto w-[100px] h-[100px] mt-4 ">
-                <AvatarImage src="/profile.webp" />
+                <AvatarImage src="/profile.webp" alt="thumbnail" />
               </Avatar>
               <p className="text-center mt-9">Pak Anton, Karyawan Swasta</p>
             </div>
@@ -58,7 +58,7 @@ const Testimonial = () => {
                 bisnis saya.”
               </h5>
               <Avatar className="container mx-auto w-[100px] h-[100px] mt-4 ">
-                <AvatarImage src="/profile.webp" />
+                <AvatarImage src="/profile.webp" alt="thumbnail"/>
               </Avatar>
               <p className="text-center mt-3">Ibu Tanti, Pemilik Catering</p>
             </div>
