@@ -8,7 +8,7 @@ const KeyValue = () => {
         <div className=" rounded-lg">
           <div>
             <Avatar className="container mx-auto w-[100px] h-[100px] mt-4 ">
-              <AvatarImage src="/iconpub.webp" />
+              <AvatarImage src="/iconpub.webp" alt="thumbnail"/>
             </Avatar>
             <h1 className="text-center mt-3">
               Public Speaking
@@ -19,7 +19,7 @@ const KeyValue = () => {
         <div className=" rounded-lg">
           <div>
             <Avatar className="container mx-auto w-[100px] h-[100px] mt-4 ">
-              <AvatarImage src="/iconCom.webp" />
+              <AvatarImage src="/iconCom.webp" alt="thumbnail" />
             </Avatar>
             <h1 className="text-center mt-3">
               Communication Skill
